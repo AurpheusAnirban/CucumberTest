@@ -1,0 +1,4 @@
+stepDefinition\Test_Step.class
+com\onlineStore\CucumberTest\App.class
+com\onlineStore\CucumberTest\SeleniumTest.class
+com\onlineStore\CucumberTest\TestRunner.class
